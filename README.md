@@ -6,7 +6,9 @@
 
 **ViSTA** (Vibro-Sensory Travel Aid) is an open-source, lightweight, and low-cost wearable Electronic Travel Aid (ETA) designed to assist visually impaired individuals in navigating unfamiliar environments.
 
-By leveraging monocular depth estimation and intuitive haptic feedback, ViSTA provides real-time directional cues via subtle vibrations at the temples. This design ensures that the user's auditory senses remain completely unobstructed—a critical safety requirement for maintaining environmental awareness.
+By leveraging monocular depth estimation and intuitive haptic feedback, ViSTA provides real-time directional cues via subtle vibrations at the temples. This design ensures that the user's auditory senses remain completely unobstructed—a critical safety requirement for maintaining environmental awareness. 
+
+DISCLAIMER: My code structuring skills were not particularly good when I originally built this project so the file structure is somewhat disorganized.
 
 ---
 
@@ -104,8 +106,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 *University of Toronto*
 
-```
-
-Would you like me to help you generate the `LICENSE` file or a basic `requirements.txt` to go along with this?
-
-```
