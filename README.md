@@ -38,7 +38,6 @@ The system follows a Client-Server model:
 | **SoC** | Raspberry Pi Zero W |
 | **Camera** | Raspberry Pi Zero Spy Camera |
 | **IMU** | MPU6050 (9-Axis) |
-| **Haptic Drivers** | 2x DRV2605L Controllers |
 | **Actuators** | 2x Linear Resonant Actuators (LRAs) |
 | **Power** | 18650 Li-ion Battery + Charging/Protection Circuit |
 | **Frame** | Custom 3D-Printed Chassis |
