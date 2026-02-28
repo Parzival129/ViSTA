@@ -4,11 +4,18 @@
 [![Hackaday.io Project](https://img.shields.io/badge/Hackaday.io-Project%20196160-orange)](https://hackaday.io/project/196160-vista-vibro-sensory-travel-aid-headset)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+![ViSTA Headset Main](https://cdn.hackaday.io/images/6797131716133983048.png)
+
 **ViSTA** (Vibro-Sensory Travel Aid) is an open-source, lightweight, and low-cost wearable Electronic Travel Aid (ETA) designed to assist visually impaired individuals in navigating unfamiliar environments.
 
 By leveraging monocular depth estimation and intuitive haptic feedback, ViSTA provides real-time directional cues via subtle vibrations at the temples. This design ensures that the user's auditory senses remain completely unobstructed—a critical safety requirement for maintaining environmental awareness. 
 
-DISCLAIMER: My code structuring skills were not particularly good when I originally built this project so the file structure is somewhat disorganized.
+> **DISCLAIMER:** My code structuring skills were not particularly good when I originally built this project so the file structure is somewhat disorganized.
+
+---
+
+## Video
+[![Watch the video](https://img.youtube.com/vi/I9VkjnHIkN0/0.jpg)](https://www.youtube.com/watch?v=I9VkjnHIkN0)
 
 ---
 
